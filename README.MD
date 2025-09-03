@@ -1,4 +1,4 @@
-# Site acessível sobre Tropicália
+# Site acessível sobre O Lobão e os Ronaldos
 # Sobre
 Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
 ## Recursos de acessibilidade
